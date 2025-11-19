@@ -1,107 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Md. Ali Hasan</h1>
-<h3 align="center">Frontend Web Developer | React Specialist</h3>
+# 💫 About Me:
+🔭 I’m currently working on React.js, JavaScript for frontend development.<br>🗄️ Using Express.js, MongoDB and Firebase for the backend.<br>👯 I’m looking to collaborate on Github <br>🌱 I’m currently learning React.js, JavaScript, Express and MongoDB<br>🛠️ Creating projects with React.js, JavaScript, Express, MongoDB, and Firebase<br>🎨 Designing UI with Tailwind CSS and DaisyUI<br>🚀 Deploying apps on Vercel and Netlify<br>💬 Ask me about HTML, CSS, JavaScript, React and Tailwind CSS<br>⚡ Fun fact I don’t always write code… but when I do, it works on my machine 😎
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a> •
-  <a href="mailto:your.email@domain.com">Email</a>
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdali.hasan.2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdalihn899@gmail.com) 
 
-### 🚀 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdalihasan899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdalihasan899&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalihasan899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a passionate frontend developer specializing in creating modern, responsive web applications. I love turning complex problems into simple, beautiful designs using the latest web technologies.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🛠️ Tech Stack
-
-#### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### **Styling & UI Frameworks**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-#### **Backend & Database**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### **Deployment & Hosting**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-#### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdalihasan899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mdalihasan899&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalihasan&show_icons=true&theme=radical&hide_title=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalihasan&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdalihasan&theme=radical)
-
-</div>
-
----
-
-### 🎯 Featured Projects
-
-#### **[E-Commerce React App](https://github.com/mdalihasan/project-one)**
-> A modern e-commerce platform built with React, Tailwind CSS, and Firebase.
-- **Tech:** React, Tailwind CSS, Firebase, Vite
-- **Features:** User authentication, product filtering, cart functionality
-- **Live Demo:** [View Site](https://your-demo-link.netlify.app)
-
-#### **[Task Management Dashboard](https://github.com/mdalihasan/project-two)**
-> A responsive task management application with drag-and-drop functionality.
-- **Tech:** React, DaisyUI, JavaScript, Local Storage
-- **Features:** CRUD operations, drag & drop, responsive design
-- **Live Demo:** [View Site](https://your-demo-link.vercel.app)
-
-#### **[Weather App](https://github.com/mdalihasan/project-three)**
-> A real-time weather application with location-based forecasts.
-- **Tech:** JavaScript, CSS3, Weather API
-- **Features:** Geolocation, 7-day forecast, responsive UI
-- **Live Demo:** [View Site](https://your-demo-link.netlify.app)
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 💻 Coding Activity
-
-![Snake animation](https://github.com/mdalihasan/mdalihasan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
