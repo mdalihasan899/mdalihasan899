@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Main banner.png)
 <h1 align="center">
 Hi 👋, I'm Md. Ali Hasan
 </h1>
