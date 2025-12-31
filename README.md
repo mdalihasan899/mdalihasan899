@@ -27,9 +27,7 @@ I’m a final-year Textile Engineering student at Shyamoli Engineering College. 
   <img src="https://nirzak-streak-stats.vercel.app/?user=mdalihasan899&theme=dark&hide_border=false" />
 </p>
 
-
-
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mdalihasan899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
