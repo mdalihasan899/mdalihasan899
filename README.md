@@ -20,7 +20,7 @@ I’m a final-year Textile Engineering student at Shyamoli Engineering College. 
 [![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,figma)](https://skillicons.dev) 
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-ali-hasan-344671257/) [![email](https://skillicons.dev/icons?i=gmail)](mailto:mdalihn899@gmail.com) [![Facebook](facebook.svg)](https://facebook.com/mdali.hasan.2) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-ali-hasan-344671257/) [![email](https://skillicons.dev/icons?i=gmail)](mailto:mdalihn899@gmail.com)
 
 ## 📊 GitHub Stats:
 <p align="center">
