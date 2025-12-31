@@ -10,8 +10,16 @@ Hi 👋, I'm Md. Ali Hasan
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-ali-hasan-344671257/) [![email](https://skillicons.dev/icons?i=gmail)](mailto:mdalihn899@gmail.com) [![Facebook](facebook.svg)](https://facebook.com/mdali.hasan.2) 
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🛠 My Skills:
+## Frontend:
+[![Frontend skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nextjs)](https://skillicons.dev) 
+
+## Backend:
+[![Backend skills](https://skillicons.dev/icons?i=express,mongodb,firebase)](https://skillicons.dev) 
+
+## Tools:
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify,figma)](https://skillicons.dev) 
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdalihasan899&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
